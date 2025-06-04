@@ -39,7 +39,12 @@ global.blackJadibts = true
 
 //─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─
 
-global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`;
+global.packsticker =`♾ ━━━━━━━━\n
+├ ɓσƭ:\n
+├ ρяοριєταяιο:\n
+├ ƒєϲнα ∂є ϲяєαϲιόи:\n
+├ нοяα:\n
+♾━━━━━━━━`;
 global.packname = *Sakura* ☘
 global.author = `♾━━━━━━━━\n⇝͟͞SAKURA ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 JAHSEH-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎSakura ☘͟ `;
 global.wm = 'Sakura ☘';
