@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/525544876071">
-    <img title="Autor" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsapp">
+  <a href="https://wa.me/51935040872">
+    <img title="Autor" src="https://img.shields.io/badge/JAHSEH OFC-SAKURA?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="https://instagram.com/_carlitos.zx">
-    <img title="Instagram del creador" src="https://img.shields.io/badge/@_carlitos.zx-purple?style=for-the-badge&logo=instagram">
+  <a href="https://instagram.com/jahseh_hc">
+    <img title="Instagram del creador" src="https://img.shields.io/badge/@jahseh_hc-purple?style=for-the-badge&logo=instagram">
   </a>
 </p>
 
