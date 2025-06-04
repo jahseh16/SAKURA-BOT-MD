@@ -33,7 +33,7 @@ const defaultMenu = {
 
 🧬 *𝗡𝗢𝗗𝗢 𝗛𝗔𝗖𝗞 𝗔𝗖𝗧𝗜𝗩𝗔𝗗𝗢*
 ✦ Elige un comando para ejecutar protocolo.
-✦ Operador: *The Carlos 👑*
+✦ Operador: *Jahseh 👑*
 
 %readmore
 `.trimStart(),
