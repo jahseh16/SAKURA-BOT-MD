@@ -6,7 +6,7 @@
 
 <h1 align="center">SAKURA - JAHSEH </h1>
 <p align="center">
-  <img src="https://ibb.co/ymYhbMKg.jpg" width="300">
+  <img src="https://i.ibb.co/ymYhbMKg/catalogo.jpg" width="300">
 </p>
 
 <p align="center">
