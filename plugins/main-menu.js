@@ -106,7 +106,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }, { quoted: m })
 
 await conn.sendMessage(m.chat, {
-  video: { url: 'https://qu.ax/TXSdU.mp4' },
+  video: { url: 'https://uploadnow.io/f/mMmtY2H' },
   caption: text,
   footer: '🧠 JAHSEH H.C ☘️',
   buttons: [
