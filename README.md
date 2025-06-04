@@ -104,7 +104,7 @@ apt update && apt upgrade
 ```
 
 ```bash
-https://github.com/jahseh16/SAKURA-BOT-MD
+git https://github.com/jahseh16/SAKURA-BOT-MD
 ```
 
 ```bash
