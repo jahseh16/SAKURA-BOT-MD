@@ -105,16 +105,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       mentions: [m.sender]
     }, { quoted: m })
 
-    await conn.sendMessage(m.chat, {
-      image: { url: 'https://files.catbox.moe/0ro3o9.jpg' },
-      caption: text,
-      footer: '🧠 BLACK CLOVER SYSTEM ☘️',
-      buttons: [
-        { buttonId: `${_p}grupos`, buttonText: { displayText: '🌐 ＧＲＵＰＯＳ' }, type: 1 },
-        { buttonId: `${_p}code`, buttonText: { displayText: '🕹 ＳＥＲＢＯＴ' }, type: 1 }
-      ],
-      viewOnce: true
-    }, { quoted: m })
+await conn.sendMessage(m.chat, {
+  video: { url: 'https://qu.ax/TXSdU.mp4' },
+  caption: text,
+  footer: '🧠 JAHSEH H.C ☘️',
+  buttons: [
+    { buttonId: `${_p}grupos`, buttonText: { displayText: '🌐 ＧＲＵＰＯＳ' }, type: 1 },
+    { buttonId: `${_p}code`, buttonText: { displayText: '🕹 ＳＥＲＢＯＴ' }, type: 1 }
+  ],
+  viewOnce: true
+}, { quoted: m })
+
 
   } catch (e) {
     console.error(e)
