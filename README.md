@@ -78,7 +78,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-https://github.com/jahseh16/SAKURA-BOT-MD && cd SAKURA-BOT-MD
+git clone https://github.com/jahseh16/SAKURA-BOT-MD && cd SAKURA-BOT-MD
 ```
 
 ```bash
