@@ -4,7 +4,7 @@
 
 > *👑* **El mejor Bot de WhatsApp** *⚔️*
 
-<h1 align="center">Black - Clover</h1>
+<h1 align="center">SAKURA - JAHSEH </h1>
 <p align="center">
   <img src="https://files.catbox.moe/0ro3o9.jpg" width="300">
 </p>
