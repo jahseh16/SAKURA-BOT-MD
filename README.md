@@ -104,7 +104,7 @@ apt update && apt upgrade
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
+https://github.com/jahseh16/SAKURA-BOT-MD
 ```
 
 ```bash
