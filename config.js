@@ -36,23 +36,12 @@ global.blackJadibts = true;
 
 //─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─
 
-global.packsticker = `♾ ━━━━━━━━
-├ ɓσƭ: Sakura-Bot
-├ ρяοριєταяιο: JAHSEH
-├ ƒєϲнα ∂є ϲяєαϲιόи: 04/06/2025
-├ нοяα: ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}
-♾━━━━━━━━`;
 
-global.packname = 'Sakura ☘';
-global.author = `♾━━━━━━━━
-⇝͟͞SAKURA ☘͟ ⋆
-⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 JAHSEH-͞ˍ
-⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}
-⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} 
-♾━━━━━━━━
 
-ѕτιϲκєя ϐγ: ৎSakura ☘͟ `;
-
+global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
+global.packname = `𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘`
+global.author = `♾━━━━━━━━\n⇝͟͞SAKURA ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 JAHSEH-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ `;
+global.wm = 'JAHSEH ☘';
 global.wm = 'Sakura ☘';
 global.titulowm = 'Sakura ☘';
 global.igfg = 'ᥫ𝐓𝐇𝐄 JAHSEH';
