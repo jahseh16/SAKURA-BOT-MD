@@ -78,7 +78,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
+https://github.com/jahseh16/SAKURA-BOT-MD && cd black-clover-MD
 ```
 
 ```bash
